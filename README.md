@@ -8,12 +8,7 @@ Register is an online registration site where applicants come to register
 
 ### Installation
 
-1. Install [django.js](https://www.djangoproject.com/)
-```
-pip install django
-```
-
-2. Install  [postgres](https://www.postgresql.org/)
+1. Install  [postgres](https://www.postgresql.org/)
 ```
 Download and install postgresql
 ```
