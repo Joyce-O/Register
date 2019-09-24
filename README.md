@@ -31,6 +31,7 @@ python manage.py runserver 0.0.0.0:5000
 python manage.py migrate
 ```
 Note: Ensure that you create a .env file in the root directory and copy paste .env.sample parameters to it and replace with your on credentials.
+
 6. Make a post request to [`localhost:5000/api/v1/register/`](localhost:5000/api/v1/register) on postman to register an applicant
 
     
